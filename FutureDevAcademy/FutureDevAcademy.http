@@ -1,0 +1,6 @@
+@FutureDevAcademy_HostAddress = http://localhost:5033
+
+GET {{FutureDevAcademy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
