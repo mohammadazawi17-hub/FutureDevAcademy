@@ -41,6 +41,7 @@ namespace Infrastructure.Context
             }
 
             CategorySeedData.Seed(modelBuilder);
+            //AdminSeedData.Seed(modelBuilder);
         }
     }
 
